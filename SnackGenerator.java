@@ -1,11 +1,11 @@
 /*
  * This program stores a list of snacks we have by category.
- * The user will be able to choose from a category such as chips, candy, etc. After a
- * choice is made, a random snack from the selected category will be printed on the screen. 
+  The user will be able to choose from a category such as chips, candy, etc. After a
+  choice is made, a random snack from the selected category will be printed on the screen. 
  * Author: Levi Ball
  * Created: 9/11/2023
  * Last Modified:
- * email: levi.ball@qsibanking.com
+ * email: levi.d.ball@gmail.com
  */
 
 import java.util.Random;
